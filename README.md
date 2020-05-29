@@ -1,1 +1,2 @@
-# NLP_Project
+# NLP: Classification of Toxic Comments
+There is a rise in posting toxic comments on the internet almost every second. It is essential to limit these kind of comments in order to keep the environment of the social media platform healthy. This model accurately classifies a particular comment as healthy, or toxic. Infact, it even goes ahead to produce probabilities of different types of toxic comments, such as hatred, insult, obscene etc. In all, there are 6 categories in which a toxic comment can be classified into. This is not just a multi-class problem, but it is also multi-label. As a single statement can be obscene and an insult at the same time. Go through the contents of this repo to know more. Thanks. :)
